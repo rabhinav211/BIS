@@ -99,6 +99,6 @@ def main():
         generation += 1
 
     print(f"Generation: {generation}\tString: {''.join(population[0].chromosome)}\tFitness: {population[0].fitness}") 
-
+print("R Abhinav\n1BM22CS211")
 if __name__ == '__main__': 
     main()
